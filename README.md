@@ -6,7 +6,7 @@ It was made using **Spring Boot**, **Apache Cassandra**, **Spring Security**, **
 
 ## Configuration
 
-If you are not using localhost Cassandra, it is necessary to configure it to use proper endpoints.
+If you don't want to run Cassandra on localhost, it is necessary to configure it to use proper endpoints.
 
 ### Configuration files
 
