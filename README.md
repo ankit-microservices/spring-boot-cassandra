@@ -4,7 +4,7 @@ This is an example **Spring Boot + Apache Cassandra** app.
 
 It was made using **Spring Boot**, **Apache Cassandra**, **Spring Security**, **Spring Data Cassandra**, **Docker** and **Docker Compose**.
 
-##Configuration
+## Configuration
 
 If you are not using localhost Cassandra, it is necessary to configure it to use proper endpoints.
 
